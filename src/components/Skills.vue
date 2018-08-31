@@ -13,7 +13,7 @@ export default {
   namef: 'Skills',
   data () {
     return {
-      name: 'timx was hererrv',
+      name: 'timx was hessssssssssrerrv',
       btnState: true
     }
   }

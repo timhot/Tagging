@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from './App2.vue'
+import App from './App3.vue'
 import '../assets/app.styl'
 
 /* eslint-disable-next-line no-new */
